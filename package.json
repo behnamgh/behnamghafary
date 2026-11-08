@@ -1,7 +1,7 @@
 {
   "name": "behnamghafary",
   "type": "module",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Personal NPM card",
   "main": "index.js",
   "scripts": {
