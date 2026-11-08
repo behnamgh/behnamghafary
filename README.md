@@ -21,7 +21,6 @@ Please look at [my personal website](https://behnamghafary.com) for more detail
 npx behnamghafary
 ```
 
-(Reference: [HERE](https://github.com/Ridermansb/ridermansb))
 
 <!--
 **Behnamgh/behnamgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
